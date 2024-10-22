@@ -1,5 +1,5 @@
 # HoneyPotSystem-back
-꿀단지 프로젝트 BackEnd 파트 입니다.
+꿀단지 프로젝트 백엔드 레포지토리입니다.
 
 ## Folder_Directory
 
