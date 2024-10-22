@@ -1,40 +1,5 @@
 # HoneyPotSystem-back
-
-Short project description or overview goes here.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Folder Directory](#Folder_Directory)
-
-## Introduction
-
-Explain briefly what the project is about and its purpose.
-
-## Features
-
-List the key features or functionalities of the project.
-
-## Installation
-
-Provide instructions on how to install or set up the project locally.
-
-## Usage
-
-Provide examples or guidelines on how to use the project.
-
-## Contributing
-
-Explain how others can contribute to the project, whether it's reporting bugs, suggesting features, or submitting pull requests.
-
-## License
-
-Specify the license under which the project is distributed.
+꿀단지 프로젝트 BackEnd 파트 입니다.
 
 ## Folder_Directory
 
